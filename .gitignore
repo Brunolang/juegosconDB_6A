@@ -1,0 +1,6 @@
+# Credenciales y configuración local de la aplicación
+/config.php
+
+# Archivos locales y temporales
+.DS_Store
+*.log
